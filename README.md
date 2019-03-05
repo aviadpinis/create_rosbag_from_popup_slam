@@ -3,7 +3,13 @@
 ## create rosbag for popup slam:
 https://github.com/shichaoy/pop_up_slam
 
-## it's possible create rosbag from images ot videos:
+This is code work with:
+* Python 2.7
+* ROS Melodic
+* Ubuntu 18.04
+* Opencv 2/3. Create or use existing a ros workspace.
+
+## it's possible create rosbag from images or videos:
 * Parameters:
 1. path for images/video.
 2. out file rosbag.
