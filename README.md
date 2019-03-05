@@ -1,6 +1,6 @@
 # create_rosbag_from_popup_slam
 
-## create rosvag for popup slam:
+## create rosbag for popup slam:
 https://github.com/shichaoy/pop_up_slam
 
 ## it's possible create rosbag from images ot videos:
