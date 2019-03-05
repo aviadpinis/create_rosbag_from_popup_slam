@@ -7,7 +7,7 @@ This is code work with:
 * Python 2.7
 * ROS Melodic
 * Ubuntu 18.04
-* Opencv 2/3. Create or use existing a ros workspace.
+* Opencv 2/3
 
 ## it's possible create rosbag from images or videos:
 * Parameters:
